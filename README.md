@@ -2,7 +2,6 @@
 
 ##Make sure you have a github account
 
-## Running JavaScript Tests
 
 ### Prerequisite Setup
 
@@ -33,7 +32,7 @@ Google. To get started:
       ./start_new_excercise
       ```
 
-### Running
+## Running JavaScript Tests
 
 * karma start jspec/karma.conf.js - This will start up the karma test server
 * karma run - Runs the current set of tests
