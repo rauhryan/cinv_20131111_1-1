@@ -1,3 +1,16 @@
+/* 
+  The primary goals of this excercise are to both gauge your comfortability level with the Javascript language and some of its characteristics. More importantly, this excercise will also be used as an initial gauge of design proficiency.
+
+  Some of the constraints for the excercise are as follows:
+
+  - Array (Limited to use of just the following methods)
+    - sort
+    - push
+
+  - app/assets/javascripts/movies/genres.js and app/assets/javascripts/movies/studios.js cannot be modified
+
+*/
+
 build = {
   movieLibrary: function (movies){
     return new MovieLibrary(movies);
