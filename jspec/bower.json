@@ -1,7 +1,7 @@
 {
-    "name": "aptus-bridge-specs",
+    "name": "interview-specs",
     "version": "0.0.1",
-    "main": ["aptus-bridge-specs.js"],
+    "main": ["interview-specs.js"],
     "dependencies": {
         "jasmine": ">= 0",
         "jasmine-jquery": ">= 0",
