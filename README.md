@@ -8,8 +8,7 @@
 JavaScript tests are run using the [karma test runner][1] by
 Google. To get started:
 
-* Install [PhantomJS][2]
-  - brew install -g phantomjs
+* Install ChromeCanary
 * Install [Node][2]
   - brew install -g nodejs
 * Install karma
@@ -38,4 +37,3 @@ Google. To get started:
 * karma run - Runs the current set of tests
 
 [1]:http://karma-runner.github.com/ 
-[2]:http://phantomjs.org/
