@@ -1,7 +1,7 @@
 configs ={
   :git => {
     :user => 'developwithpassion',
-    :remotes => %w//,
+    :remotes => %w/dg-collaborations/,
     :repo => 'cinv_20131111_1' 
   }
 }
